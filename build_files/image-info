@@ -2,11 +2,11 @@
 
 set -eoux pipefail
 
-IMAGE_PRETTY_NAME="Bazzite"
+IMAGE_PRETTY_NAME="SkyFILES"
 IMAGE_LIKE="fedora"
-HOME_URL="https://bazzite.gg"
+HOME_URL="https://skyfiles.evolve2linux.com"
 DOCUMENTATION_URL="https://docs.bazzite.gg"
-SUPPORT_URL="https://discord.bazzite.gg"
+SUPPORT_URL="https://skyfiles.evolve2linux.com"
 BUG_SUPPORT_URL="https://github.com/ublue-os/bazzite/issues/"
 LOGO_ICON="bazzite-logo-icon"
 LOGO_COLOR="0;38;2;138;43;226"
